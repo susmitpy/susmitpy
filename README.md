@@ -5,10 +5,13 @@ Who am I:
 - Backend Software Development, Firebase, AWS ( EC2, Lambda)
 - mongoDB, SQL
 - Web Scraping (Beautiful Soup and Selenium)
+- Comfortable with Django
+- Android, Flutter App Developer
 
 Hobbies:
   - Chess
   - Competitive Programming
+  - Android, Flutter App Developement
 
 
 
