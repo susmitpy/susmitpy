@@ -1,5 +1,10 @@
 ### Hi there, It's Susmit here.
-I am an Aspiring Data Scientist and Software Developer, Proficient in Data Science,Backend Software Development, Business Analytics, Firebase, AWS ( EC2, Lambda), Web Scraping (Beautiful Soup and Selenium) and Python programming language.
+Who am I:
+- Aspiring Data Scientist and  Software Developer
+- Proficient in Data Science, Business Analytics
+- Backend Software Development, Firebase, AWS ( EC2, Lambda)
+- mongoDB, SQL
+- Web Scraping (Beautiful Soup and Selenium)
 
 Hobbies:
   - Chess
