@@ -6,6 +6,7 @@ Who am I:
 - Backend Software Development, Firebase, AWS ( EC2, Lambda)
 
 Skills:
+  - Python, Dart, JS
   - Tableau
   - mongoDB, SQL
   - Web Scraping (Beautiful Soup and Selenium)
