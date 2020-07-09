@@ -22,4 +22,4 @@ Academic Performance:
   - HSC: 86.46 %
   - BSC IT: 9.5 
 
-- 👯 I’m looking to collaborate on developing anything that will help Indian Armed Forces
+👯 I’m looking to collaborate on developing anything that will help Indian Armed Forces
