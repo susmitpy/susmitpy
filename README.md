@@ -2,8 +2,8 @@
 
 Who am I:
 - Aspiring Data Scientist and  Software Developer
-- Proficient in Data Science, Business Analytics
-- Backend Software Development, Firebase, AWS ( EC2, Lambda)
+- Getting Better at Data Science, Business Analytics Day by Day !
+- Backend Software Developer, Firebase, AWS ( EC2, Lambda)
 
 Skills:
   - Python, Dart, JS
@@ -22,4 +22,4 @@ Academic Performance:
   - HSC: 86.46 %
   - BSC IT: 9.5 
 
-👯 I’m looking to collaborate on developing anything that will help Indian Armed Forces
+👯 I’m looking to collaborate on developing anything that will help India.
