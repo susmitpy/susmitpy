@@ -20,6 +20,6 @@ Hobbies:
 Academic Performance:
   - SSC: 91.4 %
   - HSC: 86.46 %
-  - BSC IT: 9.5 
+  - BSC IT: 9.6
 
 👯 I’m looking to collaborate on developing anything that will help India.
