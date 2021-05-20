@@ -7,10 +7,11 @@ Who am I:
 
 Skills:
   - Python, Dart, JS
+  - Data Science
   - Tableau
   - mongoDB, SQL
-  - Web Scraping (Beautiful Soup and Selenium)
-  - Comfortable with Django
+  - Web Scraping (Scrapy, Beautiful Soup and Selenium)
+  - Comfortable with Django, Flask and Fast API
 
 Hobbies:
   - Chess
