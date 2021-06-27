@@ -1,5 +1,7 @@
 ### Hi there, It's Susmit here.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitpy&label=Profile%20views&color=0e75b6&style=flat" alt="susmitpy" /> </p>
+
 Who am I:
 - Aspiring Data Scientist and  Software Developer
 - Getting Better at Data Science, Business Analytics Day by Day !
@@ -21,6 +23,6 @@ Hobbies:
 Academic Performance:
   - SSC: 91.4 %
   - HSC: 86.46 %
-  - BSC IT: 9.6
+  - BSC IT: 9.6 CGPA
 
 👯 I’m looking to collaborate on developing anything that will help India.
