@@ -39,4 +39,4 @@ Academic Performance:
   - HSC: 86.46 %
   - BSC IT: 9.6 CGPA
 
-👯 I’m looking to collaborate on developing anything that will help India.
+I’m looking to collaborate on developing anything that will help India.
