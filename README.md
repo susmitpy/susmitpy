@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋 I'm Susmit Vengurlekar</h1>
 <h3 align="center">Data Scientist and Full Stack Software Developer</h3>
-<h6 align="center"><img align="center" src="https://github.com/susmitpy/susmitpy/blob/master/cfv.png"/></h6>
 <h4 align="center">Founder of <a href="https://cloudfileviewer.web.app"> Cloud File Viewer </a></h4>
+
+[![Susmit Vengurlekar Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=susmit.py)](https://medium.com/@susmit.py)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
