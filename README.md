@@ -2,9 +2,14 @@
 <h1 align="center">Hi 👋 I'm Susmit Vengurlekar</h1>
 <h3 align="center">Data Scientist and Full Stack Software Developer</h3>
 <h4 align="center">Founder of <a href="https://cloudfileviewer.web.app"> Cloud File Viewer </a></h4>
-
-[![Susmit Vengurlekar Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=susmit.py)](https://medium.com/@susmit.py)
-
+<a href="https://towardsdatascience.com/neural-feature-importance-1c1868a4bf53">
+<p>
+    <img src="https://miro.medium.com/max/1400/0*KIpszJYkho5lYrkm" width=300 height=200>
+</p>
+<p>
+    <em>Neural Feature Importance - Towards Data Science</em>
+</p>
+ </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/susmit-vengurlekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmit-vengurlekar" height="30" width="40" /></a>
