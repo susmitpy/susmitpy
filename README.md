@@ -41,7 +41,7 @@ Some Services that I offer:
 
 Hobbies:
   - Chess
-  - Competitive Programming
+  - System Design
   
 Academic Performance:
   - SSC: 91.4 %
