@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm Susmit Vengurlekar</h1>
-<h3 align="center">Data Scientist and Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Developer and Data Scientist</h3>
 <h4 align="center">Founder of <a href="https://cloudfileviewer.web.app"> Cloud File Viewer </a></h4>
 
 <h3 align="left">Connect with me:</h3>
