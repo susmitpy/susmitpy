@@ -1,52 +1,35 @@
+# Susmit Vengurlekar
 
-<h1 align="center">Hi 👋 I'm Susmit Vengurlekar</h1>
-<h3 align="center">Full Stack Developer and Data Scientist</h3>
-<h4 align="center">Founder of <a href="https://cloudfileviewer.web.app"> Cloud File Viewer </a></h4>
+Backend, data and cloud engineer, 5+ years. I build data platforms, event-driven services and agentic engineering workflows. Founder of ForQuiz.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/susmit-vengurlekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmit-vengurlekar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8496019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8496019" height="30" width="40" /></a>
-<a href="https://kaggle.com/susmitpy03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="susmitpy03" height="30" width="40" /></a>
-<a href="https://medium.com/@susmit.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@susmit.py" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/susmit_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="susmit_py" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@susmit17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@susmit17" height="30" width="40" /></a> <a href="mailto:susmit.py@gmail.com"> Send me a mail </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/susmit-vengurlekar/) | [Portfolio](https://susmitpy.github.io) | [Medium](https://susmitpy.medium.com) | [Email](mailto:susmit.dev@outlook.com)
 
-Some Services that I offer:
-1) Automating repetitive work like data entry in Excel, any online form
+## About
 
-2) Crunching data from excel, CSV, XML, etc.  And viewing analysis report
+At SkillRev (Data Scientist & Solutions Architect) I built an autonomous agent pipeline for a US county tax system. Scheduled cloud runs let an LLM pick tickets, and each ticket goes through Claude Code sub-agents that plan, implement, browser-test with Playwright and review before a pull request. Low-risk tickets auto-merge and the rest get human review.
 
-3) Getting specific information from web into Excel sheets , etc
+I also founded [ForQuiz](https://forquiz.fusebytes.in), a commercial live-quiz and topic-level analytics platform I built solo. It has served 700+ players, up to 366 in one room, at meetups and college classrooms in Mumbai.
 
-4) Automating repetitive tasks like image resize, image format conversion, file size reduction
+Earlier roles: founding team at AIDAX (data platform and ETL for an automotive manufacturer), Xcellen (data science and GenAI) and Zeza Technologies, where I led a team of 4 developers and 3 interns and cut cloud costs by about 60% by re-architecting legacy systems on AWS.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp; <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &nbsp; </a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> &nbsp;<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+## Selected projects
 
- <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> &nbsp; <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+- **[ForQuiz](https://forquiz.fusebytes.in)** (closed source): live-quiz platform with answer timing measured on the participant's own phone and one analytics read model for live and self-paced sessions. Next.js, Node, WebSockets, Firebase.
+- **[brow](https://github.com/susmitpy/brow)**: browser-testing kit for Claude Code on Playwright MCP: an agent brief, two skills and a CLI that turns test recordings into one chaptered, voice-narrated evidence video. [Demo](https://youtu.be/-8JNMW7W0Es).
+- **[Real-Time CTR Analytics](https://github.com/susmitpy/stream_analytics_adtech_ctr)**: 15-second interval join, 30-second campaign windows, exactly-once output. Go, Kafka, PyFlink. [Talk](https://youtu.be/FsCWEC8Ir8I).
+- **[Multi-Engine Data Profiler](https://github.com/susmitpy/Data-Profiler)**: concurrent, adapter-based profiling of hundreds of tables across four engines, with checkpoint/resume. Python.
+- **[Knowledge-Graph RAG](https://github.com/susmitpy/QnA-on-Neo4j-Knowledge-Graph)**: text-to-Cypher over graph and vector indexes to ground LLM answers. [Talk](https://youtu.be/JpysxH4Z5Fw).
 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>  &nbsp; <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> &nbsp; <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp; <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+## Tech
 
-<a href="https://circleci.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp; <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp; <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  &nbsp;  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+- **Languages:** Python, Go, TypeScript, SQL
+- **AI and agentic:** Claude Code (sub-agents, skills, hooks), MCP, RAG, LangChain
+- **Backend and web:** FastAPI, Django, Node.js, WebSockets, Playwright
+- **Cloud and DevOps:** AWS (CDK, Lambda, Glue, ECS Fargate, S3), Terraform, Docker, GitHub Actions, Kong, OpenTelemetry
+- **Data and streaming:** Kafka, Flink, Spark, Databricks, Iceberg
+- **Databases:** PostgreSQL, Neo4j, MongoDB, DynamoDB
 
- <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp;  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+## Writing and talks
 
-
-Hobbies:
-  - Chess
-  - System Design
-  
-Academic Performance:
-  - SSC: 91.4 %
-  - HSC: 86.46 %
-  - BSC IT: 9.73 Average CGPA
-
-I’m looking to collaborate on developing anything that will help India.
+- Articles: [Data Engineering and ML Platform](https://medium.com/zeza-tech/data-engineering-and-ml-platform-part-1-platform-architecture-e5d869cae94f), [Building a Recommender System with Neo4j](https://medium.com/neo4j/building-a-recommender-system-using-neo4j-hands-on-part-1-e82bcd881906), [Apache Kafka in Short](https://blog.det.life/apache-kafka-in-short-fa56cc197114).
+- Speaker at Global Azure Bootcamp, AWS User Group Mumbai, and Kafka, Kong and GraphDatabase meetups. Slides: [Apache Kafka in Short](https://susmitpy.github.io/talks/kafka), [Firestore Security Rules (DevFest Mumbai 2024)](https://susmitpy.github.io/talks/firestore_rules).
